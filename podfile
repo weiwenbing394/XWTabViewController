@@ -1,0 +1,7 @@
+target ‘test’ do
+
+pod 'WMPageController'
+pod 'SDCycleScrollView'
+
+
+end
